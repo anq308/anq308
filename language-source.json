@@ -1,0 +1,125 @@
+{
+  "updated": "2026-10-13T19:35:46.538625+00:00",
+  "languages": {
+    "HTML": 361364,
+    "JavaScript": 1374934,
+    "CSS": 420055,
+    "Vue": 493092,
+    "PHP": 497289,
+    "TypeScript": 16715,
+    "Blade": 73231,
+    "Python": 1753
+  },
+  "repositories": [
+    {
+      "name": "AvtoPlay",
+      "languages": {
+        "HTML": 4351
+      },
+      "url": "https://github.com/anq308/AvtoPlay"
+    },
+    {
+      "name": "crumblecookies",
+      "languages": {
+        "HTML": 93033,
+        "JavaScript": 80777,
+        "CSS": 70123
+      },
+      "url": "https://github.com/anq308/crumblecookies"
+    },
+    {
+      "name": "kursach",
+      "languages": {
+        "JavaScript": 85624,
+        "HTML": 71902,
+        "CSS": 50993
+      },
+      "url": "https://github.com/anq308/kursach"
+    },
+    {
+      "name": "kyrsachPHP",
+      "languages": {
+        "Vue": 177322,
+        "PHP": 108473,
+        "TypeScript": 5364,
+        "CSS": 5103,
+        "JavaScript": 490,
+        "Blade": 430
+      },
+      "url": "https://github.com/anq308/kyrsachPHP"
+    },
+    {
+      "name": "kyrsachPHP-main-2",
+      "languages": {
+        "Vue": 315770,
+        "PHP": 241131,
+        "CSS": 11777,
+        "TypeScript": 11351,
+        "JavaScript": 535,
+        "Blade": 430
+      },
+      "url": "https://github.com/anq308/kyrsachPHP-main-2"
+    },
+    {
+      "name": "MDK-Project",
+      "languages": {
+        "HTML": 61948
+      },
+      "url": "https://github.com/anq308/MDK-Project"
+    },
+    {
+      "name": "notes",
+      "languages": {
+        "HTML": 51003
+      },
+      "url": "https://github.com/anq308/notes"
+    },
+    {
+      "name": "Pixel_sait",
+      "languages": {
+        "HTML": 46522,
+        "JavaScript": 42938,
+        "CSS": 34765
+      },
+      "url": "https://github.com/anq308/Pixel_sait"
+    },
+    {
+      "name": "PPavantis",
+      "languages": {
+        "PHP": 147685,
+        "Blade": 72371,
+        "Python": 1753,
+        "JavaScript": 458,
+        "CSS": 390
+      },
+      "url": "https://github.com/anq308/PPavantis"
+    },
+    {
+      "name": "saitBYMAGA",
+      "languages": {
+        "CSS": 30739,
+        "HTML": 26511,
+        "JavaScript": 7450
+      },
+      "url": "https://github.com/anq308/saitBYMAGA"
+    },
+    {
+      "name": "testmed",
+      "languages": {
+        "JavaScript": 15916,
+        "CSS": 9564,
+        "HTML": 5351
+      },
+      "url": "https://github.com/anq308/testmed"
+    },
+    {
+      "name": "Yandexgmae",
+      "languages": {
+        "JavaScript": 1140746,
+        "CSS": 206601,
+        "HTML": 743
+      },
+      "url": "https://github.com/anq308/Yandexgmae"
+    }
+  ]
+}
