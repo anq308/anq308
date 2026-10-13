@@ -1,61 +1,19 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="anq308 — code, interfaces, experiments" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anq308?tab=repositories">Репозитории</a> &nbsp; / &nbsp;
-  <a href="#02--проекты">Проекты</a> &nbsp; / &nbsp;
-  <a href="https://github.com/anq308?tab=stars">Избранное</a>
-</p>
-
-<br>
-
-### 01 / Обо мне
-
-Привет, я **anq308**. Здесь — мои веб-проекты, работа с интерфейсами и эксперименты с кодом.
-
-Мне нравится превращать идеи в работающие страницы и пробовать разные подходы к разработке.
-
-<p>
-  <code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code> &nbsp; <code>PHP</code>
-</p>
-
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
+  <img width="100%" src="./profile-light.svg" alt="anq308 — веб-разработка. График языков в публичных репозиториях: JavaScript, PHP, Vue, CSS, HTML, Blade и другие.">
+</picture>
 
 ### 02 / Проекты
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / PHP</sub>
-      <h3><a href="https://github.com/anq308/PPavantis">PPavantis</a></h3>
-      <p>Исходный код проекта на PHP.</p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / HTML</sub>
-      <h3><a href="https://github.com/anq308/Pixel_sait">Pixel_sait</a></h3>
-      <p>Веб-проект и работа с вёрсткой.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / JAVASCRIPT</sub>
-      <h3><a href="https://github.com/anq308/kursach">kursach</a></h3>
-      <p>Проект с использованием JavaScript.</p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / HTML</sub>
-      <h3><a href="https://github.com/anq308/notes">notes</a></h3>
-      <p>Ещё один эксперимент с веб-страницами.</p>
-    </td>
-  </tr>
-</table>
+**[Yandexgmae](https://github.com/anq308/Yandexgmae)** &nbsp; · &nbsp; JavaScript &nbsp; / &nbsp; [Открыть сайт](https://yandexgmae.vercel.app/)
 
-<p align="right"><a href="https://github.com/anq308?tab=repositories">Все репозитории →</a></p>
+**[kyrsachPHP](https://github.com/anq308/kyrsachPHP)** &nbsp; · &nbsp; Vue / PHP
+
+**[PPavantis](https://github.com/anq308/PPavantis)** &nbsp; · &nbsp; PHP
+
+**[Pixel_sait](https://github.com/anq308/Pixel_sait)** &nbsp; · &nbsp; HTML / CSS
 
 ---
 
-<p align="center">
-  <sub>Меньше шума. Больше смысла.</sub><br>
-  <sub><b>ANQ308</b> &nbsp; / &nbsp; BUILD · LEARN · REPEAT</sub>
-</p>
+<sub>[Все репозитории](https://github.com/anq308?tab=repositories) &nbsp; / &nbsp; [Избранное](https://github.com/anq308?tab=stars) &nbsp; / &nbsp; [Данные графика](./language-source.json)</sub>
