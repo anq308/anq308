@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-15T11:43:08.044397+00:00",
+  "updated": "2026-10-16T11:36:36.380395+00:00",
   "languages": {
-    "HTML": 361364,
-    "JavaScript": 1374934,
-    "CSS": 420055,
+    "JavaScript": 1915214,
+    "CSS": 482071,
+    "HTML": 366309,
     "Vue": 493092,
     "PHP": 497289,
     "TypeScript": 16715,
@@ -11,6 +11,15 @@
     "Python": 1753
   },
   "repositories": [
+    {
+      "name": "AVANTISgame",
+      "languages": {
+        "JavaScript": 540280,
+        "CSS": 62016,
+        "HTML": 4945
+      },
+      "url": "https://github.com/anq308/AVANTISgame"
+    },
     {
       "name": "AvtoPlay",
       "languages": {

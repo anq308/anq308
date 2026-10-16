@@ -9,40 +9,40 @@
 <path d="M36 222H964" stroke="#dedede"/>
 <text x="36" y="263" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" letter-spacing="0" text-anchor="start">01</text>
 <text x="92" y="263" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" letter-spacing="0" text-anchor="start">Стек в репозиториях</text>
-<text x="964" y="263" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" letter-spacing="1" text-anchor="end">12 PUBLIC PROJECTS</text>
+<text x="964" y="263" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" letter-spacing="1" text-anchor="end">13 PUBLIC PROJECTS</text>
 <text x="270" y="306" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" letter-spacing="0" text-anchor="start">0</text>
 <text x="886" y="306" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" letter-spacing="0" text-anchor="end">100%</text>
 <text x="36" y="346" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0" text-anchor="start">JavaScript</text>
 <rect x="270" y="330" width="616" height="8" fill="#ededed"/>
-<rect x="270" y="330" width="261.534" height="8" fill="#151515"/>
-<text x="964" y="346" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">42.5%</text>
+<rect x="270" y="330" width="306.779" height="8" fill="#151515"/>
+<text x="964" y="346" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">49.8%</text>
 <text x="36" y="392" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0" text-anchor="start">PHP</text>
 <rect x="270" y="376" width="616" height="8" fill="#ededed"/>
-<rect x="270" y="376" width="94.592" height="8" fill="#151515"/>
-<text x="964" y="392" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">15.4%</text>
+<rect x="270" y="376" width="79.656" height="8" fill="#151515"/>
+<text x="964" y="392" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">12.9%</text>
 <text x="36" y="438" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0" text-anchor="start">Vue</text>
 <rect x="270" y="422" width="616" height="8" fill="#ededed"/>
-<rect x="270" y="422" width="93.794" height="8" fill="#151515"/>
-<text x="964" y="438" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">15.2%</text>
+<rect x="270" y="422" width="78.983" height="8" fill="#151515"/>
+<text x="964" y="438" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">12.8%</text>
 <text x="36" y="484" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0" text-anchor="start">CSS</text>
 <rect x="270" y="468" width="616" height="8" fill="#ededed"/>
-<rect x="270" y="468" width="79.901" height="8" fill="#151515"/>
-<text x="964" y="484" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">13.0%</text>
+<rect x="270" y="468" width="77.218" height="8" fill="#151515"/>
+<text x="964" y="484" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">12.5%</text>
 <text x="36" y="530" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0" text-anchor="start">HTML</text>
 <rect x="270" y="514" width="616" height="8" fill="#ededed"/>
-<rect x="270" y="514" width="68.737" height="8" fill="#151515"/>
-<text x="964" y="530" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">11.2%</text>
+<rect x="270" y="514" width="58.675" height="8" fill="#151515"/>
+<text x="964" y="530" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">9.5%</text>
 <text x="36" y="576" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0" text-anchor="start">Blade</text>
 <rect x="270" y="560" width="616" height="8" fill="#ededed"/>
-<rect x="270" y="560" width="13.930" height="8" fill="#151515"/>
-<text x="964" y="576" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">2.3%</text>
+<rect x="270" y="560" width="11.730" height="8" fill="#151515"/>
+<text x="964" y="576" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">1.9%</text>
 <text x="36" y="622" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0" text-anchor="start">Other</text>
 <rect x="270" y="606" width="616" height="8" fill="#ededed"/>
-<rect x="270" y="606" width="3.513" height="8" fill="#151515"/>
-<text x="964" y="622" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">0.6%</text>
+<rect x="270" y="606" width="2.958" height="8" fill="#151515"/>
+<text x="964" y="622" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" letter-spacing="0" text-anchor="end">0.5%</text>
 <text x="36" y="682" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" letter-spacing="0" text-anchor="start">Доля кода по GitHub Languages · публичные проекты · без форков</text>
 <text x="36" y="708" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" letter-spacing="0" text-anchor="start">Проценты показывают состав репозиториев, а не уровень владения.</text>
 <path d="M36 740H964" stroke="#dedede"/>
 <text x="36" y="778" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" letter-spacing="1" text-anchor="start">HTML / CSS / JAVASCRIPT / VUE / PHP</text>
-<text x="964" y="778" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" letter-spacing="0" text-anchor="end">15.10.2026</text>
+<text x="964" y="778" fill="#737373" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" letter-spacing="0" text-anchor="end">16.10.2026</text>
 </svg>
